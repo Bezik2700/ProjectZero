@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectZero</string>
+    <string name="add_your_photos">Add your photos</string>
+    <string name="add_your_hobbies">Add your hobbies</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+
+</resources>
